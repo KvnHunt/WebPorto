@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
   function Header() {
     return (
       <header className="heading">
-        <Link to="/">MATTHEW BEKE</ Link>
+        <Link to="/">Kevin Michael Hunt</ Link>
       </header>
     );
   }
