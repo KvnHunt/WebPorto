@@ -1,0 +1,35 @@
+.contact h1{
+    color: black;
+    font-family: "Racing Sans One", sans-serif;
+    font-size: 110px;
+    margin-bottom: -50px;
+    margin-left: 200px;
+}
+
+.contact-card {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(0, 247, 255);
+    margin-left: 10%;
+    margin-right:10%;
+    transform: skew(10deg);
+    padding: 20px;
+}
+
+.contact-card h2 {
+    transform: skew(-10deg);
+    font-size: 40px;
+    font-family: "Racing Sans One", sans-serif;
+}
+
+.contact-card a {
+    font-family: "PT Sans", sans-serif;
+    color: #48CCFD;
+    transform: skew(-10deg);
+    font-size: 30px;
+    text-decoration: none;
+    padding: 30px;
+    padding-left: 40px;
+    padding-right: 50px;
+}

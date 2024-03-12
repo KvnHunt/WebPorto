@@ -1,0 +1,33 @@
+.resume {
+    font-family: "Racing Sans One", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -70px;
+}
+
+.resume h1{
+    color: rgb(77, 71, 71);
+    font-size: 120px;
+    margin-bottom: -50px;
+    margin-left: 12%;
+}
+
+.language-icons {
+    background-color: #0599fc;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    transform: rotate(10deg);
+}
+
+.language-icons img {
+    max-width: 8%;
+    transform: rotate(-10deg);
+    
+}
