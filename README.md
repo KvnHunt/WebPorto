@@ -1,7 +1,7 @@
 # WebPorto
 
 # React Portfolio
-![Image](./src/assets/images/)
+![Image](./src/assets/images/Capture.PNG)
 
 ## Description
 
@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-To check out my portfolio, click this link: /
+To check out my portfolio, click this link: https://kvnhunt.netlify.app
 
 ## Credits
 
